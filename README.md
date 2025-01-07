@@ -14,7 +14,7 @@ This project leverages data science techniques to analyze product sales data fro
 - **Model Performance:** The **Random Forest** model outperforms **Linear Regression** in terms of predictive accuracy.
 
 ## Project Demo
-[Link to the project demo or recording]
+https://www.linkedin.com/posts/shahzeb2001_datascience-machinelearning-streamlit-activity-7282458720431714304-3y7N?utm_source=share&utm_medium=member_desktop
 
 ## Requirements
 - Python 3.x
